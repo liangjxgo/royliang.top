@@ -1,0 +1,7 @@
+public/
+resources/
+.DS_Store
+hugo.exe
+*.swp
+*.swo
+*~
