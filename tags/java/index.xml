@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Roy Liang</title>
+    <link>https://liangjx.top/tags/java/</link>
+    <description>Recent content in Java on Roy Liang</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 13 Apr 2026 15:30:45 +0800</lastBuildDate>
+    <atom:link href="https://liangjx.top/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一个关于ThreadLocal没有结果的思考</title>
+      <link>https://liangjx.top/post/tech/threadlocal-thinking/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liangjx.top/post/tech/threadlocal-thinking/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;想不到我的第一篇博文是分析ThreadLocal，当初遇见它的时候就感觉非常有缘，如今它有幸被我翻牌，那我们就来好好撩撩它吧！&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;话不多说我们进入正题&#34;&gt;话不多说，我们进入正题&lt;/h2&gt;&#xA;&lt;p&gt;我先说明，这篇博文是假定读者对ThreaLocal有一定认识的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

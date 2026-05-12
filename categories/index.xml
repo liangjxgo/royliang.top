@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Roy Liang</title>
+    <link>https://liangjx.top/categories/</link>
+    <description>Recent content in Categories on Roy Liang</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 12 May 2026 18:41:50 +0800</lastBuildDate>
+    <atom:link href="https://liangjx.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://liangjx.top/categories/life/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liangjx.top/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://liangjx.top/categories/tech/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://liangjx.top/categories/tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

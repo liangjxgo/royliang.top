@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Pages on Roy Liang</title>
+    <link>https://liangjx.top/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on Roy Liang</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 13 Apr 2026 15:30:45 +0800</lastBuildDate>
+    <atom:link href="https://liangjx.top/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Reborn: 从Hexo到Hugo，重新出发</title>
+      <link>https://liangjx.top/post/tech/blog-reborn/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://liangjx.top/post/tech/blog-reborn/</guid>
+      <description>&lt;p&gt;距离上一次写博客，已经过去8年了。&lt;/p&gt;&#xA;&lt;p&gt;2018年那时候还是个刚入行不久的Java开发者，写了几篇关于ThreadLocal和区块链的文章就停更了。如今站在2026年，AI Agent正在重塑整个软件行业，我觉得是时候重新开始记录了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>加密 on Roy Liang</title>
+    <link>https://liangjx.top/tags/%E5%8A%A0%E5%AF%86/</link>
+    <description>Recent content in 加密 on Roy Liang</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 13 Apr 2026 15:30:45 +0800</lastBuildDate>
+    <atom:link href="https://liangjx.top/tags/%E5%8A%A0%E5%AF%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对交易所通过个人账户密码在区块链中进行代币交易的理解</title>
+      <link>https://liangjx.top/post/tech/exchange-blockchain-trading/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liangjx.top/post/tech/exchange-blockchain-trading/</guid>
+      <description>&lt;p&gt;阅读申屠青春写的《区块链开发指南》笔记，以及解读。&#xA;本文由书中提到的钥匙文件一题，引发的联想&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;还记得在学习讨论群里某位水友提问，根据区块链的特性，交易所是如何通过我们在他们中心化的交易所中所注册的账户密码进行链上的代币交易，既然他们能做到，而他们又是中心化的，岂不是我们链上的财产他们随时都可以转移走？带着这些问题，本文带您一探究竟！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
